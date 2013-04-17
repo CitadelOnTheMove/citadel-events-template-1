@@ -27,7 +27,7 @@ define("MAP_ZOOM", 16);
 // dataset
 define("DATASET_FILE", HTDOCS_ROOT . BASE_DIR ."data/Citadel-POI-common-event-Issy.json");
 define("DATASET_ID", 30);
-define("DATASET_URL", "http://localhost:8080/" . BASE_DIR . "dataset.php");
+define("DATASET_URL", "http://localhost/" . BASE_DIR . "dataset.php");
 define("USE_DATABASE", false);
 
 ?>
